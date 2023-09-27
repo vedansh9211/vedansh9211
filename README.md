@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedansh9211&label=Profile%20views&color=0e75b6&style=flat" alt="vedansh9211" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedansh9211" alt="vedansh9211" /></a> </p>
-
 - 🌱 I’m currently learning **AWS | GCP | Azure | DevOps | Cloud Services**
 
 - 💬 Ask me about **Google Cloud Platform, DevOps Practices, Web Development & React**

@@ -4,6 +4,12 @@
 <img align="right" width="400" src="https://www.dreamstime.com/devops-engineer-illustration-concept-flat-isolated-white-background-image262462205">
 
 
+
+
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedansh9211&label=Profile%20views&color=0e75b6&style=flat" alt="vedansh9211" /> </p>
 
 - 🌱 I’m currently learning **AWS | GCP | Azure | DevOps | Cloud Services**

@@ -1,14 +1,6 @@
 ![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20220906182153/DevOpsEngineerSalary.gif)
 <h1 align="center">Hi 👋, I'm Vedansh Kaushik</h1>
 <h3 align="center">A passionate DevOps Engineer from India.</h3>
-<img align="right" width="400" src="https://www.dreamstime.com/devops-engineer-illustration-concept-flat-isolated-white-background-image262462205">
-
-
-
-
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedansh9211&label=Profile%20views&color=0e75b6&style=flat" alt="vedansh9211" /> </p>
 
@@ -19,6 +11,9 @@
 - 📫 How to reach me **vedanshkaushik9760@gmail.com**
 
 - ⚡ Fun fact **I am an ALIEN.**
+
+
+<img align="right" width="400" src="https://www.dreamstime.com/devops-engineer-illustration-concept-flat-isolated-white-background-image262462205">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

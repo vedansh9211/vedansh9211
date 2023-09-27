@@ -1,7 +1,7 @@
-![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
+![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20220906182153/DevOpsEngineerSalary.gif)
 <h1 align="center">Hi 👋, I'm Vedansh Kaushik</h1>
 <h3 align="center">A passionate DevOps Engineer from India.</h3>
-<img align="right" alt="Coding" width="200" src="https://iconscout.com/lottie/male-developer-looking-for-devops-8636719">
+<img align="right" alt="Coding" width="200" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/male-developer-looking-for-devops-8636719-6864490.mp4?h=700">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedansh9211&label=Profile%20views&color=0e75b6&style=flat" alt="vedansh9211" /> </p>

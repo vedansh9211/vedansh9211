@@ -1,14 +1,14 @@
 ![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20220906182153/DevOpsEngineerSalary.gif)
 <h1 align="center">Hi 👋, I'm Vedansh Kaushik</h1>
 <h3 align="center">A passionate DevOps Engineer from India.</h3>
-<img align="right" alt="Coding" width="200" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/male-developer-looking-for-devops-8636719-6864490.mp4?h=700">
+<img align="right" width="300" src="![image](https://github.com/vedansh9211/vedansh9211/assets/94522851/7ec0c04c-e576-466c-8e4d-2ca8d79dd12f)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedansh9211&label=Profile%20views&color=0e75b6&style=flat" alt="vedansh9211" /> </p>
 
 - 🌱 I’m currently learning **AWS | GCP | Azure | DevOps | Cloud Services**
 
-- 💬 Ask me about **Google Cloud Platform, DevOps Practices, Web Development & React**
+- 💬 Ask me about **DevOps Practices & Web Development**
 
 - 📫 How to reach me **vedanshkaushik9760@gmail.com**
 
